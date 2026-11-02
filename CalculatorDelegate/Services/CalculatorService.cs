@@ -35,7 +35,7 @@ namespace CalculatorDelegate.Services
             return a % b;
         }
 
-        // Demonstrating delegate as a method parameter
+        // passing delegate as a method parameter
         public double Calculate(
             double a,
             double b,
